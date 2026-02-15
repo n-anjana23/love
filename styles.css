@@ -2,7 +2,7 @@ body{
     background-color:rgb(225, 183, 209);
 }
 .container{
-    height:80vmin;
+    height:100vmin;
     width:90vmin;
     text-align:center;
     display:flex; 
@@ -54,4 +54,5 @@ body{
 #gift{
     height:50px;
     width:50px;
+
 }
